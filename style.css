@@ -50,9 +50,13 @@ body {
 }
 
 .clickable:hover {
-	color: rgb(17, 94, 172);
+	color: rgb(12, 111, 211);
 }
 
+/* Image Container */
+.images-container {
+	margin-top: 50px;
+}
 /* Hidden */
 .hidden {
 	display: none;
